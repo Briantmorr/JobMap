@@ -1,5 +1,5 @@
 <p align='center'>
-<img src = "./assets/images/screenshot.png" style="width:400px">
+<img src = "./assets/images/screenshot.png" style="width:400px;border-radius:3%;border:outset black 4px">
 </p>
 
 # Job Map
