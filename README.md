@@ -1,4 +1,6 @@
-<img src = "./assets/images/screenshot.png" style="width: 400px">
+<p align='center'>
+<img src = "./assets/images/screenshot.png" style="width:400px">
+</p>
 
 # Job Map
 
