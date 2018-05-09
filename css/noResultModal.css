@@ -8,10 +8,6 @@
     /* 10x10 */
 }
 
-.noResultModal:hover {
-    cursor: pointer;
-}
-
 .fadeOverlay{
     grid-column: 1/11;
     grid-row: 1/11;
@@ -41,14 +37,9 @@
     background-color: white;
     grid-row: 1/2;
     height: 6vh;
-    max-height: 40px;
-    max-width: 8px;
     width: 1vh;
     transform: rotate(45deg);
     cursor:pointer;
-    position: relative;
-    top: 2%;
-    right: 1%;
 }
 .modalEscape::after{
     content:'';
@@ -68,10 +59,3 @@
     background-color: lightslategray;
 }
 
-.modalText h1{
-    font-size: 4vh;
-}
-
-.modalText h3{
-    font-size: 3vh;
-}
