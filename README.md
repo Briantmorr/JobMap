@@ -16,7 +16,7 @@ Given a job title and city to search in, Job Map will show the user their search
 
 ## Project
 
-View this project live [HERE](www.google.com)
+View this project live [HERE](http://jobmap.briantmorris.com)
 
 ## Features
 
@@ -39,4 +39,4 @@ View this project live [HERE](www.google.com)
 [KaneMJ](https://github.com/KaneMJ)
 
 ## License
-This project is licensed under the MIT License © [User](www.google.com)
+This project is licensed under the MIT License © [Brian Morris](http://briantmorris.com)
